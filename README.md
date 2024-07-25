@@ -1,2 +1,2 @@
-# AI
-LLM with llama3 e Ollama
+# AI Agents
+LLM with Kaggle and Hugging face
